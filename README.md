@@ -22,4 +22,13 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sarathbabu123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [2032-largest-odd-number-in-string](https://github.com/sarathbabu123/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/sarathbabu123/LeetCode/tree/master/2032-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/sarathbabu123/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
